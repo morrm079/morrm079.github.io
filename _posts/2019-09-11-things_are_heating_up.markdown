@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Things Are Heating Up!"
-date:       2019-09-11 15:36:31 +0000
+date:       2019-09-11 11:36:32 -0400
 permalink:  things_are_heating_up
 ---
 
