@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Why I Decided to Learn Data Science"
-date:       2019-06-17 14:09:30 +0000
+date:       2019-06-17 10:09:31 -0400
 permalink:  why_i_decided_to_learn_data_science
 ---
 
