@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "King County Data Science Project"
-date:       2019-10-06 20:19:21 +0000
+date:       2019-10-06 16:19:22 -0400
 permalink:  king_county_data_science_project
 ---
 
